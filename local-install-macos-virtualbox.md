@@ -3,7 +3,7 @@ As of this writing, the current version of ICP CE is 2.1.0.2 and the installatio
 
 To install ICP on a local machine with Virtualbox, there is a process based on Vagrant that is descrived [here](https://github.com/IBM/deploy-ibm-cloud-private/blob/master/docs/deploy-vagrant.md).
 
-But for those who what to experiment and educate on the actual installation process, here are some tips to configure you VirtualBox VM.
+But for those who want to experiment and educate on the actual installation process, here are some tips to configure you VirtualBox VM.
 
 ## Step 1: Define a Host Network
 This will create a private virtual network interface between the host and the guest VM.
