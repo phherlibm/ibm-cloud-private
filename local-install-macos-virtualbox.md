@@ -1,5 +1,4 @@
 # Local installation in a Virtual Box on Mac OS
----
 As of this writing, the current version of ICP CE is 2.1.0.2 and the installation procedure is described [here](https://www.ibm.com/support/knowledgecenter/SSBS6K_2.1.0.2/installing/install_containers_CE.html).
 
 To install ICP on a local machine with Virtualbox, there is a process based on Vagrant that is descrived [here](https://github.com/IBM/deploy-ibm-cloud-private/blob/master/docs/deploy-vagrant.md).
